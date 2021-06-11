@@ -1,6 +1,6 @@
 <img src="img/simpleview.png" align="right" width="35%"/>
 
-[**Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline**]() <br>
+[**Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline**](https://arxiv.org/pdf/2106.05304v1.pdf) <br>
 [Ankit Goyal](http://imankgoyal.github.io), [Hei Law](https://heilaw.github.io/), Bowei Liu, [Alejandro Newell](https://www.alejandronewell.com/), [Jia Deng](https://www.cs.princeton.edu/~jiadeng/) <br/>
 ***International Conference on Machine Learning (ICML), 2021***
 
