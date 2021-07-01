@@ -67,6 +67,9 @@ To download the pretrained models, execute the following command.
 - `SimpleView/configs.py`: Hyperparameters for different models and dataloader.
 - `SimpleView/dataloader.py`: Code for different variants of the dataloader.
 - `SimpleView/*_utils.py`: Code for various utility functions.
+
+## ScanObjectNN
+The code for our experiments on `ScanObjectNN` can be found in `ScanObjectNN/SimpleView` of this repo. Please refer to `README.md` in `ScanObjectNN/SimpleView` for more details.
  
 ## Running Experiments
 
