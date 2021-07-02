@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-point-cloud-classification-with-a/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=revisiting-point-cloud-classification-with-a)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-point-cloud-classification-with-a/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=revisiting-point-cloud-classification-with-a)
+
 <img src="img/simpleview.png" align="right" width="35%"/>
 
 [**Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline**](https://arxiv.org/pdf/2106.05304v1.pdf) <br>
