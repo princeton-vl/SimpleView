@@ -1,3 +1,4 @@
+import torch.nn as nn
 import numpy as np
 import torch
 
@@ -284,7 +285,8 @@ class PCViews:
         :param translation: [batch, 1, 3]
         :return:
         """
-
+        rot_mat = rot_mat.to(points.device)
+        translation = translation.to(points.device)
         points = torch.matmul(points, rot_mat)
         points = points - translation
         return points
