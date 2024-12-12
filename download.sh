@@ -11,7 +11,7 @@ mkdir tmp
 key="$1"
 case $key in
 	pretrained)
-		wgetgdrive 1btBwYK60M-lb2bz_OjU-A9YRm4hnknR9 tmp/pretrained.zip
+		wgetgdrive 1SYwkAbahftSEm3ykHK-SdBrDi7hwa2BC tmp/pretrained.zip
 		unzip -o tmp/pretrained.zip
     		;;
 	modelnet40)
@@ -19,7 +19,7 @@ case $key in
 		unzip modelnet40_ply_hdf5_2048.zip
 		mv modelnet40_ply_hdf5_2048 data
 		rm -r modelnet40_ply_hdf5_2048.zip
-    		wgetgdrive 1SHAnRFKj6wuwdSgB_B1Kzw32_gEkqADN tmp/modelnet40_ply_hdf5_2048_valid_small.zip
+    		wgetgdrive 14Xcr8kG_1VFMpxpklH96U3d78k7lTuCq tmp/modelnet40_ply_hdf5_2048_valid_small.zip
 		unzip -o tmp/modelnet40_ply_hdf5_2048_valid_small.zip
 		mv modelnet40_ply_hdf5_2048_valid_small/* data/modelnet40_ply_hdf5_2048/
 		rm -r modelnet40_ply_hdf5_2048_valid_small
